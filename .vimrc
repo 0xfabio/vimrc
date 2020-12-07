@@ -3,7 +3,7 @@
 "syntax enable
 "colorscheme dracula
 
-colorscheme elfloard
+colorscheme elflord
 
 "Tab Stuff
 set tabstop=4
