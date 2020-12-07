@@ -1,7 +1,9 @@
 "Enable Dracula Theme
-packadd! dracula
-syntax enable
-colorscheme dracula
+"packadd! dracula
+"syntax enable
+"colorscheme dracula
+
+colorscheme elfloard
 
 "Tab Stuff
 set tabstop=4
