@@ -8,8 +8,11 @@ colorscheme elflord
 "Tab Stuff
 set tabstop=4
 set shiftwidth=4
-set cindent
-set smartindent
+"set cindent
+"set smartindent
+set noautoindent
+set nocindent
+set nosmartindent
 
 syntax on " Syntax highlighting
 set showmatch " Shows matching brackets
